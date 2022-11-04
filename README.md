@@ -1,3 +1,6 @@
+# Overview
+A learning notes website built in django and Sqlite
+
 # Usage
 Create virtual environment
 ```
